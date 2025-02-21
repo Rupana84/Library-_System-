@@ -1,7 +1,8 @@
 # Library Management System
 
-## About the Project
-This is a simple Library Management System** built with Java, JDBC, and MySQL.  It helps users borrow and return books, and lets admins add or remove books.
+---About the Project---
+This is a simple Library Management System** built with Java, JDBC, and MySQL.  It helps users borrow and return books, 
+and lets admins add or remove books.
 
 Features
 - Users can:
